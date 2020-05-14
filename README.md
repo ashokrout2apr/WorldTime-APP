@@ -1,16 +1,13 @@
 # worldtimeapp
 
-A new Flutter application.
+A Flutter application to get Current time and to know time of any other city.
 
-## Getting Started
+## DESCRIPTION
 
-This project is a starting point for a Flutter application.
+A basic Flutter app to determine and display curren time and to depict day and night. World TIme api is used to display tim in other cities.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ScreenShots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2020-05-14 at 8 54 38 AM](https://user-images.githubusercontent.com/45023388/81889225-a2741f00-95c0-11ea-845e-49ccf6b920be.jpeg)
+![WhatsApp Image 2020-05-14 at 8 54 38 AM (1)](https://user-images.githubusercontent.com/45023388/81889228-a3a54c00-95c0-11ea-9f3d-c87620fd4fcf.jpeg)
